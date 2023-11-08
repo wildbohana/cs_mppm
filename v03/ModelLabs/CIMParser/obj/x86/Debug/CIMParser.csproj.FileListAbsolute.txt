@@ -1,0 +1,6 @@
+C:\Users\wildbohana\Desktop\Vezba3\3b Model loader + CIMET\ModelLabs\bin\CIMParser.dll
+C:\Users\wildbohana\Desktop\Vezba3\3b Model loader + CIMET\ModelLabs\bin\CIMParser.pdb
+C:\Users\wildbohana\Desktop\Vezba3\3b Model loader + CIMET\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.AssemblyReference.cache
+C:\Users\wildbohana\Desktop\Vezba3\3b Model loader + CIMET\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
+C:\Users\wildbohana\Desktop\Vezba3\3b Model loader + CIMET\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+C:\Users\wildbohana\Desktop\Vezba3\3b Model loader + CIMET\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
