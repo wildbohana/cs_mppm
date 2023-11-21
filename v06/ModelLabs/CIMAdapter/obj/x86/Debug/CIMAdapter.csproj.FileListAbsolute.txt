@@ -1,0 +1,12 @@
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb

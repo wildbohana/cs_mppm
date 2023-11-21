@@ -1,0 +1,1 @@
+Error [2023-11-16 00:12:07] : Error during Assembly load. Profile: PowerTransformer ; Message: Could not load file or assembly 'file:///C:\Users\wildbohana\Desktop\wtf\mp\v06\ModelLabs\ModelLabsApp\bin\x64\Debug\PowerTransformerCIMProfile_Labs.DLL' or one of its dependencies. Operation is not supported. (Exception from HRESULT: 0x80131515)

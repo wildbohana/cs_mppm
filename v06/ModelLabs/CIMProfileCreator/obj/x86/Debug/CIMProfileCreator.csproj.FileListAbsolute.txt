@@ -1,0 +1,24 @@
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\Predefined\PredefinedClasses.xml
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\Predefined\PredefinedEnumerations.xml
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\Predefined\PredefinedPackages.xml
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMProfileCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.CIMProfileCreatorForm.resources
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.Properties.Resources.resources
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMProfileCreator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMProfileCreator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\Predefined\PredefinedClasses.xml
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\Predefined\PredefinedEnumerations.xml
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\Predefined\PredefinedPackages.xml
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.CIMProfileCreatorForm.resources
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb

@@ -1,0 +1,5 @@
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\CIMParser.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\CIMParser.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.pdb

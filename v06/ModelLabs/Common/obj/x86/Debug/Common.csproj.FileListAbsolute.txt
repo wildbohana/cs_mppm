@@ -1,0 +1,13 @@
+D:\SSELENA\ALL Work\Work\MyTools\bin\FTN.Common.dll
+D:\SSELENA\ALL Work\Work\MyTools\bin\FTN.Common.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.Common.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.Common.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\Common\obj\x86\Debug\FTN.Common.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\FTN.Common.dll
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\bin\FTN.Common.pdb
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\Korisnik\Desktop\IES\2023_24\Vezbe\Vezba6\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb

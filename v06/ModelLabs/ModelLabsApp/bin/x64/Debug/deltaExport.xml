@@ -1,0 +1,134 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="15">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="BASEVOLTAGE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="BV_12500" />
+            <Property id="BASEVOLTAGE_NOMINALVOLTAGE" value="12500" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="124903727_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="1250788534_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffd" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593448_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffc" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593502_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffb" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593544_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffa" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593624_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffff9" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="939140759_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="124903727" />
+            <Property id="PSR_CUSTOMTYPE" value="PMT" />
+            <Property id="PSR_LOCATION" value="0x00000002ffffffff" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="1250788534" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffe" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffd" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593448" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffd" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffc" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593502" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffc" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffb" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593544" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffb" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffa" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593624" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffa" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffff9" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="939140759" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffff9" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
