@@ -1,0 +1,5 @@
+D:\DMS\TelventDMS-3.4.1_Development\bin64\TelventDMS.Common.ServiceContracts.NetworkModelQueryContract.dll
+D:\DMS\TelventDMS-3.4.1_Development\bin64\TelventDMS.Common.ServiceContracts.NetworkModelQueryContract.pdb
+D:\DMS\TelventDMS-3.4.1_Development\Common\ServiceContracts\NetworkModelQueryContract\obj\x64\Release\ResolveAssemblyReference.cache
+D:\DMS\TelventDMS-3.4.1_Development\Common\ServiceContracts\NetworkModelQueryContract\obj\x64\Release\TelventDMS.Common.ServiceContracts.NetworkModelQueryContract.dll
+D:\DMS\TelventDMS-3.4.1_Development\Common\ServiceContracts\NetworkModelQueryContract\obj\x64\Release\TelventDMS.Common.ServiceContracts.NetworkModelQueryContract.pdb

@@ -1,0 +1,15 @@
+D:\VezbeNMS\bin64\FTN.Services.NetworkModelService.dll
+D:\VezbeNMS\bin64\FTN.Services.NetworkModelService.pdb
+D:\VezbeNMS\NetworkModelService\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\VezbeNMS\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+D:\VezbeNMS\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\10\VezbeNMS\bin64\FTN.Services.NetworkModelService.dll
+D:\Vezbe\10\VezbeNMS\bin64\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\10\VezbeNMS\NetworkModelService\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\VezbeNMS\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\10\VezbeNMS\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\10\ModelLabs\bin64\FTN.Services.NetworkModelService.dll
+D:\Vezbe\10\ModelLabs\bin64\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\10\ModelLabs\NetworkModelService\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\ModelLabs\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\10\ModelLabs\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb

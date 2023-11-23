@@ -1,0 +1,1 @@
+D:\DMS\TelventDMS-3.4.0\Services\NetworkModelService\DataModel\obj\x64\Release\ResolveAssemblyReference.cache

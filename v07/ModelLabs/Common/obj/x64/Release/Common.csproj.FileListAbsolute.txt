@@ -1,0 +1,5 @@
+D:\DMS\TelventDMS-3.4.0\bin64\TelventDMS.Common.DMS.Common.dll
+D:\DMS\TelventDMS-3.4.0\bin64\TelventDMS.Common.DMS.Common.pdb
+D:\DMS\TelventDMS-3.4.0\Common\DMS\Common\obj\x64\Release\ResolveAssemblyReference.cache
+D:\DMS\TelventDMS-3.4.0\Common\DMS\Common\obj\x64\Release\TelventDMS.Common.DMS.Common.dll
+D:\DMS\TelventDMS-3.4.0\Common\DMS\Common\obj\x64\Release\TelventDMS.Common.DMS.Common.pdb

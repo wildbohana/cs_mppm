@@ -1,0 +1,25 @@
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\CIMParser.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\CIMParser.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\Vezbe\10\ModelLabs9\bin\CIMParser.dll
+D:\Vezbe\10\ModelLabs9\bin\CIMParser.pdb
+D:\Vezbe\10\ModelLabs9\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\Vezbe\10\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\Vezbe\10\ModelLabs10\bin\CIMParser.dll
+D:\Vezbe\10\ModelLabs10\bin\CIMParser.pdb
+D:\Vezbe\10\ModelLabs10\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\ModelLabs10\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\Vezbe\10\ModelLabs10\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\Vezbe\10\ModelLabs\bin\CIMParser.dll
+D:\Vezbe\10\ModelLabs\bin\CIMParser.pdb
+D:\Vezbe\10\ModelLabs\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\Vezbe\10\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+D:\shared\simesVezbe\Vezba10\ModelLabs\bin\CIMParser.dll
+D:\shared\simesVezbe\Vezba10\ModelLabs\bin\CIMParser.pdb
+D:\shared\simesVezbe\Vezba10\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csprojResolveAssemblyReference.cache
+D:\shared\simesVezbe\Vezba10\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\shared\simesVezbe\Vezba10\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb

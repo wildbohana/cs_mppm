@@ -1,0 +1,378 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="31">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="BASEVOLTAGE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="BV_12500" />
+            <Property id="BASEVOLTAGE_NOMINALVOLTAGE" value="12500" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="124903727_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="1250788534_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffd" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593448_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffc" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593502_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffb" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593544_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffa" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593624_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffff9" type="LOCATION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="939140759_LOC" />
+            <Property id="LOCATION_CATEGORY" value="geographical" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="124903727" />
+            <Property id="PSR_CUSTOMTYPE" value="PMT" />
+            <Property id="PSR_LOCATION" value="0x00000002ffffffff" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="1250788534" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffe" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffd" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593448" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffd" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffc" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593502" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffc" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffb" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593544" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffb" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffa" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593624" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffa" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffff9" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="939140759" />
+            <Property id="PSR_CUSTOMTYPE" value="OH_Transformer" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffff9" />
+            <Property id="EQUIPMENT_ISPRIVATE" value="0" />
+            <Property id="POWERTR_FUNC" value="Consumer" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="124903727_TW1" />
+            <Property id="PSR_LOCATION" value="0x00000002ffffffff" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="300000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Primary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="124903727_TW2" />
+            <Property id="PSR_LOCATION" value="0x00000002ffffffff" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="300000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Secondary" />
+            <Property id="POWERTRWINDING_PHASETOGRNDVOLTAGE" value="120" />
+            <Property id="POWERTRWINDING_PHASETOPHASEVOLTAGE" value="208" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffd" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="1250788534_TW1" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffe" />
+            <Property id="CONDEQ_PHASES" value="C" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="75000" />
+            <Property id="POWERTRWINDING_RATEDU" value="25000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Primary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffc" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="1250788534_TW2" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffe" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="75000" />
+            <Property id="POWERTRWINDING_RATEDU" value="120000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Secondary" />
+            <Property id="POWERTRWINDING_PHASETOGRNDVOLTAGE" value="120" />
+            <Property id="POWERTRWINDING_PHASETOPHASEVOLTAGE" value="240" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffb" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593448_TW1" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffd" />
+            <Property id="CONDEQ_PHASES" value="A" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="25000" />
+            <Property id="POWERTRWINDING_RATEDU" value="12500" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Primary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffa" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593448_TW2" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffd" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="25000" />
+            <Property id="POWERTRWINDING_RATEDU" value="120000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Secondary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff9" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593502_TW1" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffc" />
+            <Property id="CONDEQ_PHASES" value="A" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="75000" />
+            <Property id="POWERTRWINDING_RATEDU" value="12500" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Primary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffc" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff8" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593502_TW2" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffc" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="75000" />
+            <Property id="POWERTRWINDING_RATEDU" value="120000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Secondary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffc" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff7" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593544_TW1" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffb" />
+            <Property id="CONDEQ_PHASES" value="A" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="50000" />
+            <Property id="POWERTRWINDING_RATEDU" value="12500" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Primary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffb" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff6" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593544_TW2" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffb" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="50000" />
+            <Property id="POWERTRWINDING_RATEDU" value="120000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Secondary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffb" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff5" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593624_TW1" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffa" />
+            <Property id="CONDEQ_PHASES" value="B" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="100000" />
+            <Property id="POWERTRWINDING_RATEDU" value="12500" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Primary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffa" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff4" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="599593624_TW2" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffffa" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="100000" />
+            <Property id="POWERTRWINDING_RATEDU" value="120000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Secondary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffffa" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff3" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="939140759_TW1" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffff9" />
+            <Property id="CONDEQ_PHASES" value="A" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="50000" />
+            <Property id="POWERTRWINDING_RATEDU" value="25000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Primary" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffff9" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffff2" type="POWERTRWINDING" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="939140759_TW2" />
+            <Property id="PSR_LOCATION" value="0x00000002fffffff9" />
+            <Property id="CONDEQ_PHASES" value="ABC" />
+            <Property id="CONDEQ_BASVOLTAGE" value="0x00000001ffffffff" />
+            <Property id="POWERTRWINDING_CONNTYPE" value="Y" />
+            <Property id="POWERTRWINDING_GROUNDED" value="1" />
+            <Property id="POWERTRWINDING_RATEDS" value="50000" />
+            <Property id="POWERTRWINDING_RATEDU" value="120000" />
+            <Property id="POWERTRWINDING_WINDTYPE" value="Secondary" />
+            <Property id="POWERTRWINDING_PHASETOGRNDVOLTAGE" value="120" />
+            <Property id="POWERTRWINDING_PHASETOPHASEVOLTAGE" value="240" />
+            <Property id="POWERTRWINDING_POWERTRW" value="0x00000003fffffff9" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="WINDINGTEST" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="124903727_TW1_WT" />
+            <Property id="IDOBJ_NAME" value="124903727_TW1_WT" />
+            <Property id="WINDINGTEST_LEAKIMPDN" value="10.76" />
+            <Property id="WINDINGTEST_LOADLOSS" value="133.3" />
+            <Property id="WINDINGTEST_NOLOADLOSS" value="49.4" />
+            <Property id="WINDINGTEST_PHASESHIFT" value="11" />
+            <Property id="WINDINGTEST_LEAKIMPDN0PERCENT" value="0" />
+            <Property id="WINDINGTEST_LEAKIMPDNMAXPERCENT" value="90" />
+            <Property id="WINDINGTEST_LEAKIMPDNMINPERCENT" value="70" />
+            <Property id="WINDINGTEST_POWERTRWINDING" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="WINDINGTEST" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="939140759_TW1_WT" />
+            <Property id="IDOBJ_NAME" value="939140759_TW1_WT" />
+            <Property id="WINDINGTEST_LEAKIMPDN" value="12.76" />
+            <Property id="WINDINGTEST_LOADLOSS" value="120.3" />
+            <Property id="WINDINGTEST_NOLOADLOSS" value="49.4" />
+            <Property id="WINDINGTEST_PHASESHIFT" value="11" />
+            <Property id="WINDINGTEST_LEAKIMPDN0PERCENT" value="0" />
+            <Property id="WINDINGTEST_LEAKIMPDNMAXPERCENT" value="90" />
+            <Property id="WINDINGTEST_LEAKIMPDNMINPERCENT" value="70" />
+            <Property id="WINDINGTEST_POWERTRWINDING" value="0x00000004fffffff3" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

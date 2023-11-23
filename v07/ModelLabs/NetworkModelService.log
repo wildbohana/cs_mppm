@@ -1,0 +1,107 @@
+12/15/2014 10:56:49 AM : Starting Network Model Serivice...
+12/15/2014 10:56:49 AM : The WCF service GenericDataAccess is ready.
+12/15/2014 10:56:49 AM : Endpoints:
+12/15/2014 10:56:49 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+12/15/2014 10:56:49 AM : Connection string: ../NetworkModelData.data
+12/15/2014 10:56:49 AM : Trace level: Info
+12/15/2014 10:56:49 AM : The Network Model Service is started.
+12/15/2014 10:56:49 AM : Press <Enter> to stop the service.
+12/15/2014 10:57:07 AM : Applying  delta to network model.
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000100000001).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000200000001).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000200000002).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000200000003).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000200000004).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000200000005).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000200000006).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000200000007).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000300000001).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000300000002).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000300000003).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000300000004).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000300000005).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000300000006).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000300000007).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000001).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000002).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000003).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000004).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000005).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000006).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000007).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000008).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000400000009).
+12/15/2014 10:57:07 AM : Inserting entity with GID (000000040000000a).
+12/15/2014 10:57:07 AM : Inserting entity with GID (000000040000000b).
+12/15/2014 10:57:07 AM : Inserting entity with GID (000000040000000c).
+12/15/2014 10:57:07 AM : Inserting entity with GID (000000040000000d).
+12/15/2014 10:57:07 AM : Inserting entity with GID (000000040000000e).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000500000001).
+12/15/2014 10:57:07 AM : Inserting entity with GID (0000000500000002).
+12/15/2014 10:57:07 AM : Applying delta to network model successfully finished.
+12/15/2014 10:59:13 AM : Applying  delta to network model.
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000100000002).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000200000008).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000200000009).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000020000000a).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000020000000b).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000020000000c).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000020000000d).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000020000000e).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000300000008).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000300000009).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000030000000a).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000030000000b).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000030000000c).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000030000000d).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000030000000e).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000040000000f).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000010).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000011).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000012).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000013).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000014).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000015).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000016).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000017).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000018).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000400000019).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000040000001a).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000040000001b).
+12/15/2014 10:59:13 AM : Inserting entity with GID (000000040000001c).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000500000003).
+12/15/2014 10:59:13 AM : Inserting entity with GID (0000000500000004).
+12/15/2014 10:59:13 AM : Applying delta to network model successfully finished.
+12/15/2014 10:59:46 AM : Applying  delta to network model.
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000100000003).
+12/15/2014 10:59:46 AM : Inserting entity with GID (000000020000000f).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000200000010).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000200000011).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000200000012).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000200000013).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000200000014).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000200000015).
+12/15/2014 10:59:46 AM : Inserting entity with GID (000000030000000f).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000300000010).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000300000011).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000300000012).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000300000013).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000300000014).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000300000015).
+12/15/2014 10:59:46 AM : Inserting entity with GID (000000040000001d).
+12/15/2014 10:59:46 AM : Inserting entity with GID (000000040000001e).
+12/15/2014 10:59:46 AM : Inserting entity with GID (000000040000001f).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000020).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000021).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000022).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000023).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000024).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000025).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000026).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000027).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000028).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000400000029).
+12/15/2014 10:59:46 AM : Inserting entity with GID (000000040000002a).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000500000005).
+12/15/2014 10:59:46 AM : Inserting entity with GID (0000000500000006).
+12/15/2014 10:59:46 AM : Applying delta to network model successfully finished.

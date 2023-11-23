@@ -1,0 +1,5 @@
+D:\Vezbe\10\ModelLabs\bin64\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Vezbe\10\ModelLabs\bin64\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\Vezbe\10\ModelLabs\CIMAdapter\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\ModelLabs\CIMAdapter\obj\x64\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\Vezbe\10\ModelLabs\CIMAdapter\obj\x64\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb

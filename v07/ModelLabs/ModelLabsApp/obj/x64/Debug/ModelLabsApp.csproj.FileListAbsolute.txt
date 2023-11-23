@@ -1,0 +1,10 @@
+D:\Vezbe\10\ModelLabs\bin64\ModelLabsApp.exe.config
+D:\Vezbe\10\ModelLabs\bin64\ModelLabsApp.exe
+D:\Vezbe\10\ModelLabs\bin64\ModelLabsApp.pdb
+D:\Vezbe\10\ModelLabs\ModelLabsApp\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\10\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.ModelLabsAppForm.resources
+D:\Vezbe\10\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.Properties.Resources.resources
+D:\Vezbe\10\ModelLabs\ModelLabsApp\obj\x64\Debug\GenerateResource.read.1.tlog
+D:\Vezbe\10\ModelLabs\ModelLabsApp\obj\x64\Debug\GenerateResource.write.1.tlog
+D:\Vezbe\10\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.exe
+D:\Vezbe\10\ModelLabs\ModelLabsApp\obj\x64\Debug\ModelLabsApp.pdb
