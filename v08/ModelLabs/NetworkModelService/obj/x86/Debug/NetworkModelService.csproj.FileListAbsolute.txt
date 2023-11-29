@@ -1,0 +1,27 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Vezba12\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Vezba12\ModelLabsProjekat\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Vezba12\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Vezba12\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Vezba12\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Vezba12\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Vezba12\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+D:\shared\simesVezbe\Vezba12\ModelLabs\NetworkModelService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Vezba12\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+D:\shared\simesVezbe\Vezba12\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+C:\Users\Jelena\Desktop\Jelena\IES\Vezbe\Vezba 12\ModelLabsVezba12\ModelLabs\bin\FTN.Services.NetworkModelService.dll
+C:\Users\Jelena\Desktop\Jelena\IES\Vezbe\Vezba 12\ModelLabsVezba12\ModelLabs\bin\FTN.Services.NetworkModelService.pdb
+C:\Users\Jelena\Desktop\Jelena\IES\Vezbe\Vezba 12\ModelLabsVezba12\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.AssemblyReference.cache
+C:\Users\Jelena\Desktop\Jelena\IES\Vezbe\Vezba 12\ModelLabsVezba12\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Desktop\Jelena\IES\Vezbe\Vezba 12\ModelLabsVezba12\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CopyComplete
+C:\Users\Jelena\Desktop\Jelena\IES\Vezbe\Vezba 12\ModelLabsVezba12\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\Jelena\Desktop\Jelena\IES\Vezbe\Vezba 12\ModelLabsVezba12\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
